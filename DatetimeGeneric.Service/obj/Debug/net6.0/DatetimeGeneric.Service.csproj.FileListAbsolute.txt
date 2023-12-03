@@ -1,0 +1,15 @@
+C:\Users\Honor MagicBook\Downloads\DateTimeGeneric\DatetimeGeneric.Service\bin\Debug\net6.0\DatetimeGeneric.Service.deps.json
+C:\Users\Honor MagicBook\Downloads\DateTimeGeneric\DatetimeGeneric.Service\bin\Debug\net6.0\DatetimeGeneric.Service.dll
+C:\Users\Honor MagicBook\Downloads\DateTimeGeneric\DatetimeGeneric.Service\bin\Debug\net6.0\DatetimeGeneric.Service.pdb
+C:\Users\Honor MagicBook\Downloads\DateTimeGeneric\DatetimeGeneric.Service\bin\Debug\net6.0\DateTimeGeneric.Domain.dll
+C:\Users\Honor MagicBook\Downloads\DateTimeGeneric\DatetimeGeneric.Service\bin\Debug\net6.0\DateTimeGeneric.Domain.pdb
+C:\Users\Honor MagicBook\Downloads\DateTimeGeneric\DatetimeGeneric.Service\obj\Debug\net6.0\DatetimeGeneric.Service.csproj.AssemblyReference.cache
+C:\Users\Honor MagicBook\Downloads\DateTimeGeneric\DatetimeGeneric.Service\obj\Debug\net6.0\DatetimeGeneric.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Honor MagicBook\Downloads\DateTimeGeneric\DatetimeGeneric.Service\obj\Debug\net6.0\DatetimeGeneric.Service.AssemblyInfoInputs.cache
+C:\Users\Honor MagicBook\Downloads\DateTimeGeneric\DatetimeGeneric.Service\obj\Debug\net6.0\DatetimeGeneric.Service.AssemblyInfo.cs
+C:\Users\Honor MagicBook\Downloads\DateTimeGeneric\DatetimeGeneric.Service\obj\Debug\net6.0\DatetimeGeneric.Service.csproj.CoreCompileInputs.cache
+C:\Users\Honor MagicBook\Downloads\DateTimeGeneric\DatetimeGeneric.Service\obj\Debug\net6.0\DatetimeGeneric.Service.csproj.CopyComplete
+C:\Users\Honor MagicBook\Downloads\DateTimeGeneric\DatetimeGeneric.Service\obj\Debug\net6.0\DatetimeGeneric.Service.dll
+C:\Users\Honor MagicBook\Downloads\DateTimeGeneric\DatetimeGeneric.Service\obj\Debug\net6.0\refint\DatetimeGeneric.Service.dll
+C:\Users\Honor MagicBook\Downloads\DateTimeGeneric\DatetimeGeneric.Service\obj\Debug\net6.0\DatetimeGeneric.Service.pdb
+C:\Users\Honor MagicBook\Downloads\DateTimeGeneric\DatetimeGeneric.Service\obj\Debug\net6.0\ref\DatetimeGeneric.Service.dll

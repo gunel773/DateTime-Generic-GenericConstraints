@@ -1,0 +1,49 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "DateTimeGeneric/1.0.0": {
+        "dependencies": {
+          "DatetimeGeneric.Service": "1.0.0"
+        },
+        "runtime": {
+          "DateTimeGeneric.dll": {}
+        }
+      },
+      "DateTimeGeneric.Domain/1.0.0": {
+        "runtime": {
+          "DateTimeGeneric.Domain.dll": {}
+        }
+      },
+      "DatetimeGeneric.Service/1.0.0": {
+        "dependencies": {
+          "DateTimeGeneric.Domain": "1.0.0"
+        },
+        "runtime": {
+          "DatetimeGeneric.Service.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DateTimeGeneric/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DateTimeGeneric.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DatetimeGeneric.Service/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
